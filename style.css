@@ -1,0 +1,54 @@
+
+.container {
+    background-color: #4cec5f;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.problem-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 39px;
+}
+
+#problem {
+    font-size: 36px;
+    margin: 20px 0;
+}
+
+span {
+    margin: 0 10px;
+}
+
+#button-container{
+    margin: 20px 0;
+}
+
+#reveal-answer {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+#generate-problem{
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #1bded7;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+
+#answer {
+    font-size: 36px;
+    margin: 20px 0;
+}
